@@ -68,8 +68,8 @@ body.dark-theme {
 }
 
 .nav__btns {
-    diplay: flex;
-    align-item: center;
+    display: flex;
+    align-items: center;
 }
 
 .change-theme {
@@ -90,7 +90,7 @@ body.dark-theme {
 }
 
 html {
-    scrooll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 body {
